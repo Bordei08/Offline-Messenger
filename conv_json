@@ -1,0 +1,32 @@
+[
+   {
+      "from" : "mihai",
+      "message" : "Salut!",
+      "seen" : true,
+      "to" : "tudor"
+   },
+   {
+      "from" : "mihai",
+      "message" : "Ce faci? ",
+      "seen" : true,
+      "to" : "gabi"
+   },
+   {
+      "from" : "gabi",
+      "message" : "bine ",
+      "seen" : false,
+      "to" : "mihai"
+   },
+   {
+      "from" : "gabi",
+      "message" : "bine ",
+      "seen" : false,
+      "to" : "mihai"
+   },
+   {
+      "from" : "gabi",
+      "message" : "bine ",
+      "seen" : false,
+      "to" : "mihai"
+   }
+]

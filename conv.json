@@ -1,0 +1,68 @@
+[
+	{
+		"from" : "mihai",
+		"message" : "Salut!",
+		"seen" : true,
+		"to" : "tudor"
+	},
+	{
+		"from" : "mihai",
+		"message" : "Ce faci? ",
+		"seen" : true,
+		"to" : "gabi"
+	},
+	{
+		"from" : "gabi",
+		"message" : "bine ",
+		"seen" : true,
+		"to" : "mihai"
+	},
+	{
+		"from" : "mihai",
+		"message" : "hut ",
+		"seen" : true,
+		"to" : "gabi"
+	},
+	{
+		"from" : "gabi",
+		"message" : "ok bro ",
+		"seen" : true,
+		"to" : "mihai"
+	},
+	{
+		"from" : "mihai",
+		"message" : "esti prea smcher ",
+		"seen" : true,
+		"to" : "gabi"
+	},
+	{
+		"from" : "mihai",
+		"message" : "cf? ",
+		"seen" : true,
+		"to" : "gabi"
+	},
+	{
+		"from" : "gabi",
+		"message" : "hai sugi ",
+		"seen" : true,
+		"to" : "mihai"
+	},
+	{
+		"from" : "tudor",
+		"message" : "dsds ",
+		"seen" : false,
+		"to" : "gabi"
+	},
+	{
+		"from" : "mihai",
+		"message" : "mil sugi ",
+		"seen" : false,
+		"to" : "gabi"
+	},
+	{
+		"from" : "mihai",
+		"message" : "salut ",
+		"seen" : false,
+		"to" : "tudor"
+	}
+]
